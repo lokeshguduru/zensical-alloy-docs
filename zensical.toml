@@ -1,6 +1,7 @@
 [project]
 site_name = "Zensical Alloy"
 site_description = "A polished documentation theme for Zensical"
+site_url = "https://lokeshguduru.github.io/zensical-alloy-docs/"
 repo_name = "zensical-alloy-docs"
 repo_url = "https://github.com/lokeshguduru/zensical-alloy-docs"
 edit_uri = "edit/main/docs/"
