@@ -31,8 +31,8 @@ nav = [
 [project.theme]
 name = "alloy"
 palette = [
-  { media = "(prefers-color-scheme: light)", scheme = "default", primary = "white", accent = "indigo", toggle = { icon = "lucide/sun", name = "Switch to dark mode" } },
-  { media = "(prefers-color-scheme: dark)",  scheme = "slate",   primary = "black", accent = "indigo", toggle = { icon = "lucide/moon", name = "Switch to light mode" } },
+  { media = "(prefers-color-scheme: light)", scheme = "default", primary = "white", accent = "orange", toggle = { icon = "lucide/sun", name = "Switch to dark mode" } },
+  { media = "(prefers-color-scheme: dark)",  scheme = "slate",   primary = "black", accent = "orange", toggle = { icon = "lucide/moon", name = "Switch to light mode" } },
 ]
 features = [
   "content.action.edit",
